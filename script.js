@@ -5,7 +5,7 @@
    ============================================================ */
 
 const LIFF_ID = '2010082961-GTtjRCn3';
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbzxFJ0-OxWEWbwh8CzhTd8FndXHcFHWd4PyzK8zapqB8kyH6E5MqnGB3czpaRZlWIwQEg/exec';
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbzZDRO-GR4XQZrG5SBVsAzt5_v8RNH7N_2-Xt9tzHPJtq06U3VpFF2B4yrs0A7tZ-MgBg/exec';
 
 let currentTab = 'shift'; // 'shift' or 'daily'
 let selectedDate = '';    // YYYY-MM-DD
